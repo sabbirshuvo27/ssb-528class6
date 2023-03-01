@@ -1,0 +1,86 @@
+/*  Common Coding Start   */
+
+body{
+margin: 0;
+font-family: sans-serif;
+font-size: 16px;
+font-weight: 400px;
+color: #0f2656;
+}
+/*  Common Coding End   */
+/* Header Start */
+header {
+    border-bottom: 3px solid rgba(163, 163, 163, 0.158);
+    padding: 15px 0;
+}
+.conteiner {
+    width: 90%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.logo {
+    width: 10%;
+    float: left;
+}
+.logo a {
+    display: block;
+}
+.logo a img{
+    width: 100%;
+}
+.manu {
+    width: 60%;
+    float: right; 
+}
+.manu ul {
+    float: right;
+}
+.manu ul li {
+    list-style: none;
+    float: left;
+}
+.manu ul li a {
+    text-decoration: none;
+    padding: 0 15px;
+    display: inline-block;
+    color: #0f2656;
+}
+.manu ul li a:hover {
+    color: rgb(82, 82, 244);
+}
+.manu ul li:last-child a {
+    padding-right: 0;
+}
+/* Header Start */
+/* banner start */
+.banner {
+    padding: 50px 0;
+
+}
+
+.container2 {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.hero {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 65px;
+
+}
+.hero1 {
+    line-height: 25px;
+
+}
+.img2 {
+
+}
+
+.img2 img {
+}
+
+
+
+
+/* banner end */
